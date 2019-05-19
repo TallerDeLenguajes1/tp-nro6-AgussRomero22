@@ -1,0 +1,10 @@
+No, las expresiones regulares también funcionan
+en otros lenguajes, un ejemplo claro es JavaScript.
+Las expresiones regulares nos otorgan una manera muy 
+práctica de buscar o reconocer cadenas de texto.
+Nos permite encontrar porciones específicas de texto
+dentro de una cadena más grande de caracteres y también
+reconocer patrones dentro de una cadena de texto (tales cómo
+páginas web, emails, etc.)
+
+
